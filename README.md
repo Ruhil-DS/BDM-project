@@ -25,9 +25,6 @@ The following guidelines were followed: https://docs.google.com/document/d/e/2PA
 
 # Repository Walkthorugh
 
-To respect the privacy of the supermart and its data, I have fabricated some details to help annonimize the supermart's confidential information
-This includes the name, images, address, etc.
-
-The data has not been uploaded, only the insights present in the data file are available.
+The data has not been uploaded, only the insights present in the data file are available via the report PDF files.
 
 There is a folder by the name "Submitted data" where I have the proposal, the mid term submission, the final report as well as the final presentation PPT.
